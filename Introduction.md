@@ -1,1 +1,0 @@
-## I'm an IT and cybersecurity enthusiast building expertise through structured certifications, hands-on labs, and real-world projects. This GitHub tracks my coding work, technical experiments, and progress across the certification pathway.
